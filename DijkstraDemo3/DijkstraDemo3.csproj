@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <PackageReference Include="DotNetty.Common" Version="0.6.0" />
-    <PackageReference Include="Lucene.Net" Version="3.0.3" />
   </ItemGroup>
 
 </Project>

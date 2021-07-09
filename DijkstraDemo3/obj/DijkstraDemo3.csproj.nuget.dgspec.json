@@ -47,10 +47,6 @@
             "DotNetty.Common": {
               "target": "Package",
               "version": "[0.6.0, )"
-            },
-            "Lucene.Net": {
-              "target": "Package",
-              "version": "[3.0.3, )"
             }
           },
           "imports": [
