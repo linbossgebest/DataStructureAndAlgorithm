@@ -1,0 +1,13 @@
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\bin\Debug\netcoreapp3.1\TestBinaryHeap.exe
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\bin\Debug\netcoreapp3.1\TestBinaryHeap.deps.json
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\bin\Debug\netcoreapp3.1\TestBinaryHeap.runtimeconfig.json
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\bin\Debug\netcoreapp3.1\TestBinaryHeap.runtimeconfig.dev.json
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\bin\Debug\netcoreapp3.1\TestBinaryHeap.dll
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\bin\Debug\netcoreapp3.1\TestBinaryHeap.pdb
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\obj\Debug\netcoreapp3.1\TestBinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\obj\Debug\netcoreapp3.1\TestBinaryHeap.AssemblyInfoInputs.cache
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\obj\Debug\netcoreapp3.1\TestBinaryHeap.AssemblyInfo.cs
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\obj\Debug\netcoreapp3.1\TestBinaryHeap.dll
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\obj\Debug\netcoreapp3.1\TestBinaryHeap.pdb
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\obj\Debug\netcoreapp3.1\TestBinaryHeap.genruntimeconfig.cache
+C:\Users\linyong\Desktop\文档\test\TestBinaryHeap\obj\Debug\netcoreapp3.1\TestBinaryHeap.csprojAssemblyReference.cache

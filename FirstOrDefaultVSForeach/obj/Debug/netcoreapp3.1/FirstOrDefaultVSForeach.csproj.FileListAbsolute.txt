@@ -1,0 +1,12 @@
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\bin\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.exe
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\bin\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.deps.json
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\bin\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.runtimeconfig.json
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\bin\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.runtimeconfig.dev.json
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\bin\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.dll
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\bin\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.pdb
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\obj\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.csproj.CoreCompileInputs.cache
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\obj\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.AssemblyInfoInputs.cache
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\obj\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.AssemblyInfo.cs
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\obj\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.dll
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\obj\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.pdb
+C:\Users\linyong\Desktop\文档\test\FirstOrDefaultVSForeach\obj\Debug\netcoreapp3.1\FirstOrDefaultVSForeach.genruntimeconfig.cache

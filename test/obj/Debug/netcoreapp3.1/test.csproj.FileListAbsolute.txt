@@ -1,0 +1,12 @@
+C:\Users\linyong\Desktop\文档\test\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\linyong\Desktop\文档\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\linyong\Desktop\文档\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\linyong\Desktop\文档\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\linyong\Desktop\文档\test\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\linyong\Desktop\文档\test\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

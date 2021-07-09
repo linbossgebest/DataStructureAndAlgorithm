@@ -1,0 +1,13 @@
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\bin\Debug\netcoreapp3.1\AdjacencyTable.exe
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\bin\Debug\netcoreapp3.1\AdjacencyTable.deps.json
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\bin\Debug\netcoreapp3.1\AdjacencyTable.runtimeconfig.json
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\bin\Debug\netcoreapp3.1\AdjacencyTable.runtimeconfig.dev.json
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\bin\Debug\netcoreapp3.1\AdjacencyTable.dll
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\bin\Debug\netcoreapp3.1\AdjacencyTable.pdb
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\obj\Debug\netcoreapp3.1\AdjacencyTable.csproj.CoreCompileInputs.cache
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\obj\Debug\netcoreapp3.1\AdjacencyTable.AssemblyInfoInputs.cache
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\obj\Debug\netcoreapp3.1\AdjacencyTable.AssemblyInfo.cs
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\obj\Debug\netcoreapp3.1\AdjacencyTable.dll
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\obj\Debug\netcoreapp3.1\AdjacencyTable.pdb
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\obj\Debug\netcoreapp3.1\AdjacencyTable.genruntimeconfig.cache
+C:\Users\linyong\Desktop\文档\test\AdjacencyTable\obj\Debug\netcoreapp3.1\AdjacencyTable.csprojAssemblyReference.cache
