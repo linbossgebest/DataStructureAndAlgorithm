@@ -1,0 +1,16 @@
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\bin\Debug\net5.0\QueeueWithTask.exe
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\bin\Debug\net5.0\QueeueWithTask.deps.json
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\bin\Debug\net5.0\QueeueWithTask.runtimeconfig.json
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\bin\Debug\net5.0\QueeueWithTask.runtimeconfig.dev.json
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\bin\Debug\net5.0\QueeueWithTask.dll
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\bin\Debug\net5.0\ref\QueeueWithTask.dll
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\bin\Debug\net5.0\QueeueWithTask.pdb
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\QueeueWithTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\QueeueWithTask.AssemblyInfoInputs.cache
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\QueeueWithTask.AssemblyInfo.cs
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\QueeueWithTask.csproj.CoreCompileInputs.cache
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\QueeueWithTask.dll
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\ref\QueeueWithTask.dll
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\QueeueWithTask.pdb
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\QueeueWithTask.genruntimeconfig.cache
+C:\Users\linyong\Desktop\文档\test\QueeueWithTask\obj\Debug\net5.0\QueeueWithTask.csproj.AssemblyReference.cache

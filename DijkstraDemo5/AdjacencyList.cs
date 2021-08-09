@@ -134,7 +134,7 @@ namespace DijkstraDemo5
             return s;
         }
 
-        //嵌套类表示链表中的表节点
+        //表示链表中的表节点
         public class Node
         {
             public Vertex<T> adjvex;//邻接点域
@@ -147,7 +147,7 @@ namespace DijkstraDemo5
             }
         }
 
-        //嵌套类表示存放数组中的表头节点
+        //表示存放数组中的表头节点
         public class Vertex<TValue>
         {
             public TValue data;//数据

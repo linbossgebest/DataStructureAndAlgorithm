@@ -1,0 +1,16 @@
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\BuyTickets.csproj.AssemblyReference.cache
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\BuyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\BuyTickets.AssemblyInfoInputs.cache
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\BuyTickets.AssemblyInfo.cs
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\BuyTickets.csproj.CoreCompileInputs.cache
+C:\Users\linyong\Desktop\文档\test\BuyTickets\bin\Debug\net5.0\BuyTickets.exe
+C:\Users\linyong\Desktop\文档\test\BuyTickets\bin\Debug\net5.0\BuyTickets.deps.json
+C:\Users\linyong\Desktop\文档\test\BuyTickets\bin\Debug\net5.0\BuyTickets.runtimeconfig.json
+C:\Users\linyong\Desktop\文档\test\BuyTickets\bin\Debug\net5.0\BuyTickets.runtimeconfig.dev.json
+C:\Users\linyong\Desktop\文档\test\BuyTickets\bin\Debug\net5.0\BuyTickets.dll
+C:\Users\linyong\Desktop\文档\test\BuyTickets\bin\Debug\net5.0\ref\BuyTickets.dll
+C:\Users\linyong\Desktop\文档\test\BuyTickets\bin\Debug\net5.0\BuyTickets.pdb
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\BuyTickets.dll
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\ref\BuyTickets.dll
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\BuyTickets.pdb
+C:\Users\linyong\Desktop\文档\test\BuyTickets\obj\Debug\net5.0\BuyTickets.genruntimeconfig.cache

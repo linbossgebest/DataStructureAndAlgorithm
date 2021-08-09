@@ -10,3 +10,4 @@ C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.AssemblyI
 C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.dll
 C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.pdb
 C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+C:\Users\linyong\Desktop\文档\test\test\obj\Debug\netcoreapp3.1\test.csproj.AssemblyReference.cache

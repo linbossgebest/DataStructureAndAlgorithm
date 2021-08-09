@@ -10,3 +10,4 @@ C:\Users\linyong\Desktop\文档\test\DijkstraDemo5\obj\Debug\netcoreapp3.1\Dijks
 C:\Users\linyong\Desktop\文档\test\DijkstraDemo5\obj\Debug\netcoreapp3.1\DijkstraDemo5.dll
 C:\Users\linyong\Desktop\文档\test\DijkstraDemo5\obj\Debug\netcoreapp3.1\DijkstraDemo5.pdb
 C:\Users\linyong\Desktop\文档\test\DijkstraDemo5\obj\Debug\netcoreapp3.1\DijkstraDemo5.genruntimeconfig.cache
+C:\Users\linyong\Desktop\文档\test\DijkstraDemo5\obj\Debug\netcoreapp3.1\DijkstraDemo5.csproj.AssemblyReference.cache

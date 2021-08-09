@@ -88,6 +88,8 @@ namespace DijkstraDemo5
 
             Console.WriteLine($"顶点数：{pointsCount},边数：{edgesCount}");
 
+            Console.ReadKey();
+
         }
 
         /// <summary>
