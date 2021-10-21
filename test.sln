@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LyCustomIOC", "LyCustomIOC\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LyCustomCommon", "LyCustomCommon\LyCustomCommon.csproj", "{13A9E944-C1B0-4C7E-B865-1EE288FC6FA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueeueWithTask", "QueeueWithTask\QueeueWithTask.csproj", "{3D45053C-12F3-4F01-ACC3-C2394B738591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueeueWithTask", "QueeueWithTask\QueeueWithTask.csproj", "{3D45053C-12F3-4F01-ACC3-C2394B738591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDIFrameWork", "MiniDIFrameWork\MiniDIFrameWork.csproj", "{E7563C4A-48B9-4FF4-8085-371143CB4CE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{3D45053C-12F3-4F01-ACC3-C2394B738591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D45053C-12F3-4F01-ACC3-C2394B738591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D45053C-12F3-4F01-ACC3-C2394B738591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7563C4A-48B9-4FF4-8085-371143CB4CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7563C4A-48B9-4FF4-8085-371143CB4CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7563C4A-48B9-4FF4-8085-371143CB4CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7563C4A-48B9-4FF4-8085-371143CB4CE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYnwTMZADOFXeOJT+NARsctCBisWNtRc9X8gBgaVQzfKlJPs3B6BDkA0ypiPM3zooFbqs6lKUaSolMNgP0LiXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linyong\\Desktop\\文档\\test\\MiniDIFrameWork\\MiniDIFrameWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linyong\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\linyong\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

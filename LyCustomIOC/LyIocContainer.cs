@@ -23,6 +23,10 @@ namespace LyCustomIOC
             this.scopeDic = scopeDic;
         }
 
+        /// <summary>
+        /// 创建子容器，生命周期为scope模式
+        /// </summary>
+        /// <returns></returns>
         public ILyIocContainer CreateChildContainer()
         {
             return new LyIocContainer(this.typeDic, this.paramListDic, new Dictionary<string, object>());
@@ -87,7 +91,7 @@ namespace LyCustomIOC
                     else
                         break;
                 case LifeTimeType.Singleton:
-                    if (registModel.SingletonInstance == null)
+                    if (registModel.SingletonInstance == null)//还没有构造单例，则break,继续构造
                         break;
                     else
                         return registModel.SingletonInstance;
