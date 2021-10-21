@@ -69,6 +69,21 @@ namespace MiniDIFrameWork
             return cat;
         }
 
+        public static Cat CreateChild(this Cat cat)
+        {
+            return new Cat(cat);
+        }
+
+        public static T GetService<T>(this Cat cat)
+        {
+            return (T)cat.GetService(typeof(T));
+        }
+
+        public static IEnumerable<T> GetServices<T>(this Cat cat)
+        {
+            return cat.GetService<IEnumerable<T>>();
+        }
+
         private static object Create(Cat cat, Type type, Type[] genericArguments)
         {
             //判断是否有泛型参数
