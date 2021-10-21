@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -21,6 +22,51 @@ namespace MiniDIFrameWork
         public static Cat Register<TFrom, TTo>(this Cat cat, Lifetime lifetime) where TTo : TFrom
         {
             return cat.Register(typeof(TFrom), typeof(TTo), lifetime);
+        }
+
+        public static Cat Register(this Cat cat, Type serviceType, object instance)
+        {
+            Func<Cat, Type[], object> factory = (_, arguments) => instance;
+            cat.Regeister(new ServiceRegistry(serviceType, Lifetime.Root, factory));
+            return cat;
+        }
+
+        public static Cat Register<TService>(this Cat cat, TService instance)
+        {
+            Func<Cat, Type[], object> factory = (_, arguments) => instance;
+            cat.Regeister(new ServiceRegistry(typeof(TService), Lifetime.Root, factory));
+            return cat;
+        }
+        public static Cat Register(this Cat cat, Type serviceType,
+        Func<Cat, object> factory, Lifetime lifetime)
+        {
+            cat.Regeister(new ServiceRegistry(serviceType, lifetime, (_,arguments)=>factory(_)));
+            return cat;
+        }
+        public static Cat Register<TService>(this Cat cat,
+           Func<Cat, TService> factory, Lifetime lifetime)
+        {
+            cat.Regeister(new ServiceRegistry(typeof(TService), lifetime, (_, arguments) => factory(_)));
+            return cat;
+        }
+
+        /// <summary>
+        /// 程序集注入
+        /// </summary>
+        /// <param name="cat">容器对象</param>
+        /// <param name="assembly">程序集</param>
+        /// <returns></returns>
+        public static Cat Register(this Cat cat, Assembly assembly)
+        {
+            var typeAttributes = from type in assembly.GetExportedTypes()
+                                 let attribute = type.GetCustomAttribute<MapToAttribute>()
+                                 where attribute != null
+                                 select new { ServiceType = type, Attribute = attribute };
+            foreach (var item in typeAttributes)
+            {
+                cat.Register(item.Attribute.ServiceType, item.ServiceType, item.Attribute.Lifetime);
+            }
+            return cat;
         }
 
         private static object Create(Cat cat, Type type, Type[] genericArguments)

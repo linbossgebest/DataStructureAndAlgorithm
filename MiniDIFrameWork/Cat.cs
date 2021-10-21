@@ -51,7 +51,7 @@ namespace MiniDIFrameWork
         }
 
         /// <summary>
-        /// 容器注册服务类
+        /// 容器注册服务类型
         /// </summary>
         /// <param name="registry"></param>
         /// <returns></returns>
@@ -110,7 +110,7 @@ namespace MiniDIFrameWork
             //Generic
             if (serviceType.IsGenericType && !_registries.ContainsKey(serviceType))
             {
-                //获取泛型类型的开发类型: List<T> => List<>
+                //获取泛型类型的开放类型: List<T> => List<>
                 var definition = serviceType.GetGenericTypeDefinition();
                 return _registries.TryGetValue(definition, out registry) ? GetServicCore(registry, new Type[0]) : null;
             }

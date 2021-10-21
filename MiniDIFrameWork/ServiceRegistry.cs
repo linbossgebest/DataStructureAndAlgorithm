@@ -22,7 +22,7 @@ namespace MiniDIFrameWork
         public Lifetime Lifetime { get; }
 
         /// <summary>
-        /// 创建服务实例工厂
+        /// 创建服务实例的工厂
         /// </summary>
         public Func<Cat,Type[],object> Factory { get;  }
 
