@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueeueWithTask", "QueeueWit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniDIFrameWork", "MiniDIFrameWork\MiniDIFrameWork.csproj", "{E7563C4A-48B9-4FF4-8085-371143CB4CE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeLine", "PipeLine\PipeLine.csproj", "{14074547-7018-437B-A190-9CC6AC5C7B0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipeLine", "PipeLine\PipeLine.csproj", "{14074547-7018-437B-A190-9CC6AC5C7B0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTest", "CoreTest\CoreTest.csproj", "{98ADBCFF-5139-46C8-BD4E-0E41F01E50FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreTest", "CoreTest\CoreTest.csproj", "{98ADBCFF-5139-46C8-BD4E-0E41F01E50FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{00C92DA3-2D7D-41AC-8D2E-AFE453FF5ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifierDemo", "AccessModifierDemo\AccessModifierDemo.csproj", "{15F5137B-1D43-4B04-B30C-FB242F1FAF75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{98ADBCFF-5139-46C8-BD4E-0E41F01E50FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98ADBCFF-5139-46C8-BD4E-0E41F01E50FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98ADBCFF-5139-46C8-BD4E-0E41F01E50FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C92DA3-2D7D-41AC-8D2E-AFE453FF5ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C92DA3-2D7D-41AC-8D2E-AFE453FF5ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C92DA3-2D7D-41AC-8D2E-AFE453FF5ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C92DA3-2D7D-41AC-8D2E-AFE453FF5ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F5137B-1D43-4B04-B30C-FB242F1FAF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F5137B-1D43-4B04-B30C-FB242F1FAF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F5137B-1D43-4B04-B30C-FB242F1FAF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F5137B-1D43-4B04-B30C-FB242F1FAF75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
